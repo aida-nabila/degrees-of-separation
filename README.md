@@ -9,7 +9,7 @@ Jennifer Lawrence and Tom Hanks is 2: Jennifer Lawrence is connected to Kevin Ba
 both starring in “X-Men: First Class,” and Kevin Bacon is connected to Tom Hanks by both 
 starring in “Apollo 13.”
 
-![Alt text](image.png)
+![image](https://github.com/user-attachments/assets/57a3b2bd-1840-4706-90cf-8c9a4557dc8a)
 
 # Data
 The distribution code contains two sets of CSV data files: one set in the large directory and 
@@ -29,4 +29,3 @@ and movie_id value. The first row (ignoring the header), for example, states tha
 with id 102 starred in the movie with id 104257. Checking that 
 against people.csv and movies.csv, you’ll find that this line is saying that Kevin Bacon starred 
 in the movie “A Few Good Men.”
-
