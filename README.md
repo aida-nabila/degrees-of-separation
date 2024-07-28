@@ -17,13 +17,13 @@ one set in the small directory. Each contains files with the same names, and the
 structure, but small is a much smaller dataset for ease of testing and experimentation. 
 Each dataset consists of three CSV files. 
 
-In people.csv you’ll see that each person has a unique id, corresponding with 
+In `people.csv` you’ll see that each person has a unique id, corresponding with 
 their id in IMDb’s database. They also have a name, and a birth year. 
 
-In movies.csv you’ll see here that each movie also has a unique id, in 
+In `movies.csv` you’ll see here that each movie also has a unique id, in 
 addition to a title and the year in which the movie was released. 
 
-The file stars.csv establishes a relationship between the people 
+The file `stars.csv` establishes a relationship between the people 
 in people.csv and the movies in movies.csv. Each row is a pair of a person_id value 
 and movie_id value. The first row (ignoring the header), for example, states that the person 
 with id 102 starred in the movie with id 104257. Checking that 
